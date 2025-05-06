@@ -17,4 +17,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Cloder07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
+
+<img src="https://raw.githubusercontent.com/Cloder07/Cloder07/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
