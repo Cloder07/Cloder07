@@ -1,4 +1,3 @@
-### Hello World I'm Cloder 👋
 ![Cloder](img/github-header-image.png)
 
 
